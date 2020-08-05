@@ -1,5 +1,12 @@
 Ghibli Movies is an exercise project for the job application to the sennder. It retries movie and people list from ghibli API and shows them within a Web UI.
 
+# Install
+
+```sh
+apt install redis-server
+pip install requirements.txt
+```
+
 # Tasks
 
 Synchronizes movie database with Redis in every 50 seconds.
