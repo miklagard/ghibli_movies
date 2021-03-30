@@ -4,7 +4,7 @@ Ghibli Movies is an exercise project for the job application to the sennder. It 
 
 ```sh
 apt install redis-server
-pip install requirements.txt
+pip install -r requirements.txt
 python manage.py migrate
 ```
 
